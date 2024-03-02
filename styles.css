@@ -119,7 +119,7 @@
         width: 100%;
         position: absolute;
         top: -1000px;
-        opacity: 1;
+        opacity: 0;
         transition: all 0.5s ease;
         height: 50vh;
         z-index: -1;
@@ -189,11 +189,11 @@
    }
 
    #mobile-menu.is-active .bar:nth-child(1) {
-    transform: translate(8px) rotate(-45deg);
+    transform: translateY(8px) rotate(45deg);
    }
 
    #mobile-menu.is-active .bar:nth-child(3) {
-    transform: translate(-8px) rotate(-45deg);
+    transform: translateY(-8px) rotate(-45deg);
    } 
 }
 
