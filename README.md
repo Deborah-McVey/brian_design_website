@@ -9,5 +9,3 @@ main img container: image from undraw.co (color #FA6771) Brian used "messages" p
 
 background-image: got image at Pexels.com, typed in VR
 
-also need picture of keyboard **
-
